@@ -17,3 +17,4 @@ Route::get('/', function () {
 });
 
 Route::get('download/top', 'DownloadController@top');
+Route::get('download/top2', 'DownloadController@top2');
