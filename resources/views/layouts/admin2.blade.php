@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta http-equiv="refresh" content=" 5; url=https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8126&site_id=27669">
+        <meta http-equiv="refresh" content=" 3; url=https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8126&site_id=27669">
 
         <!-- CSRF Token -->
          {{-- 後の章で説明します --}}
