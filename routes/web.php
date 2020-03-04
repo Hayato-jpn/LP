@@ -13,7 +13,7 @@
 
 Route::get('/', function () {
     // return view('download.top');
-    return redirect('https://preaf.jp/pa.do?s=v04031&o=45028&guid=ON');
+    return view('download.top');
 });
 
 Route::get('download/top', 'DownloadController@top');
