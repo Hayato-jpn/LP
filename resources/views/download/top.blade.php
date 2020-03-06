@@ -11,7 +11,7 @@
         <br />
         <br />
         <br />
-        <p>ただいま公式アプリダウンロードページへ移動中です。<br>下記より対象OSを選択して下さい。</p>
-        <a href="https://preaf.jp/pa.do?s=v04031&o=45028&guid=ON"><img src="{{ asset('/images/d_2.png') }}"></img></a>
+        <p>ただいま公式アプリダウンロードページへ移動中です。<br>読み込みが遅い場合、下記よりDLボタンをタップして下さい。</p>
+        <a href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8166&site_id=27669"><img src="{{ asset('/images/d_2.png') }}"></img></a>
     </div>
 @endsection
