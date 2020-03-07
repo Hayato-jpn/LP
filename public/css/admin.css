@@ -42,3 +42,11 @@ body {
 .body {
   text-align: center;
 }
+
+span {
+  background: linear-gradient(transparent 60%, #ff99ff 60%);
+}
+
+p {
+  text-align: left
+}

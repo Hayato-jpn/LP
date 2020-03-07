@@ -11,7 +11,7 @@
         <br />
         <br />
         <br />
-        <p>ただいま公式アプリダウンロードページへ移動中です。<br>下記より対象OSを選択して下さい。</p>
+        <p>ただいま公式アプリダウンロードページへ移動中です。<br><span>下記より対象OSを選択して下さい。</span></p>
         <a href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8126&site_id=27669"><img src="{{ asset('/images/d_2.png') }}"></img></a>
     </div>
 @endsection
