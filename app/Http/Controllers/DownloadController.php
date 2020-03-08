@@ -14,4 +14,8 @@ class DownloadController extends Controller
     public function top2() {
         return view('download.top2');
     }
+    
+    public function top3() {
+        return view('download.top3');
+    }
 }

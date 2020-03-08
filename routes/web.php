@@ -18,3 +18,4 @@ Route::get('/', function () {
 
 Route::get('download/top', 'DownloadController@top');
 Route::get('download/top2', 'DownloadController@top2');
+Route::get('download/top3', 'DownloadController@top3');
