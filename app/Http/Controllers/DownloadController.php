@@ -22,4 +22,18 @@ class DownloadController extends Controller
     public function top4() {
         return view('download.top4');
     }
+    
+    public function bis() {
+        return view('download.bis');
+    }
+    
+    // public function os() {
+    //     if (\Agent::is('iPhone')) { //端末がiOSかどうか
+    //           return redirect('https://fam-ad.com/ad/p/dt?_site=64802&_loc=221380&_mstype=99'); //famのワクワクiOS
+    //       } else {
+    //           return view('download.top5'); //PC
+    //       }
+    //     }
+    // }
+
 }
