@@ -23,4 +23,5 @@ Route::get('download/top4', 'DownloadController@top4'); //FATEY
 Route::get('download/bis', 'DownloadController@bis'); //ビスコール
 Route::get('download/win', 'DownloadController@win'); //winticket
 Route::get('download/fy', 'DownloadController@fy'); //FATEY preaf
+Route::get('download/money', 'DownloadController@money'); //チャットレディーLP
 // Route::get('download/os', 'DownloadController@os'); //OS識別、表示先切り替えテスト
