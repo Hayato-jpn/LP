@@ -77,8 +77,9 @@ p {
 p {
   text-align: center;
   padding-bottom: 20px;
+  font-weight: bold;
 }
 
 .img-width {
-  width: 90%;
+  width: 95%;
 }

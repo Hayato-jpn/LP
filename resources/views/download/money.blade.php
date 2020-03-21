@@ -10,15 +10,15 @@
     <div class="body">
         <br />
         <br />
-        <h1><span>【女性専用】副業特集！</span></h1>
-        <h3>学校やバイト、仕事の隙間時間に🎵</h3>
+        <h2><span>【女性専用】副業特集！</span></h2>
+        <h4>学校やバイト・仕事の隙間時間に🎵</h4>
         <br />
         <br />
         <img class="img-width" src="{{ asset('/images/attention.png') }}"></img>
         <div class="line"></div>
         <!--Biscor-->
         <img class="img-width" src="{{ asset('/images/biscor.png') }}"></img>
-        <p>【初心者必見！？】ライブ配信型アプリ🎵</p>
+        <p>【初心者必見！？】<br />ライブ配信型アプリ🎵</p>
         <a href="#" class="btn-square">公式ページへ</a>
         <div class="line"></div>
         <!--モア-->
@@ -38,7 +38,7 @@
         <div class="line"></div>
         <!--チャリン-->
         <img class="img-width" src="{{ asset('/images/charin.png') }}"></img>
-        <p>【SNSで稼ぐ!!??】SNS型お小遣いアプリ🎵</p>
+        <p>【SNSで稼ぐ!!??】<br />SNS型お小遣いアプリ🎵</p>
         <a href="#" class="btn-square">公式ページへ</a>
         <div class="line"></div>
         <!--ワクワク-->
@@ -47,7 +47,8 @@
         <a href="#" class="btn-square">紹介ページへ</a>
         <div class="line"></div>
         <h3>まとめ</h3>
-        <p>今回個人用に女性向け副業サービスをまとめて見ました。どれも評判良いサービスを中心にピックアップしており、特に高時給と時間に都合付けれる点は良さそう🎵<br />期間限定での紹介になるので、とりあえず公式ページを見るなど ご利用はお早めに!!!</p>
+        <p>今回個人用に女性向け副業サービスをまとめて見ました。どれも評判良いサービスを中心にピックアップしており、特に高時給と時間に都合付けれる点は良さそう🎵</p>
+        <p>期間限定での紹介になるので、とりあえず公式ページを見るなど ご利用はお早めに!!!</p>
         <br />
         <br />
     </div>
