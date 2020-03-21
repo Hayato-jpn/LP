@@ -60,6 +60,7 @@ p {
 .btn-square {
   display: inline-block;
   padding: 0.5em 1em;
+  font-weight: bold;
   text-decoration: none;
   background: #668ad8;/*ボタン色*/
   color: #FFF;

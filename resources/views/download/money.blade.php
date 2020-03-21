@@ -3,7 +3,7 @@
 
 
 {{-- admin.blade.phpの@yield('title')に'ニュースの新規作成'を埋め込む --}}
-@section('title', 'OSを選択して下さい')
+@section('title', '2020年度版 - 女性専用！副業特集！')
 
 {{-- admin.blade.phpの@yield('content')に以下のタグを埋め込む --}}
 @section('content')
