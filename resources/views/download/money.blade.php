@@ -44,7 +44,7 @@
         <!--ワクワク-->
         <img class="img-width" src="{{ asset('/images/wakuwaku.png') }}"></img>
         <p><span>【平均お手当時給 1万円超え!!??】</span><br />大手企業運営パパ活アプリ🎵</p>
-        <a href="https://fam-ad.com/ad/p/r?_site=64802&_article=16355" class="btn-square" target="_blank">紹介ページへ</a>
+        <a href="https://fam-ad.com/ad/p/r?_site=64802&_article=16786" class="btn-square" target="_blank">App Storeへ</a>
         <div class="line"></div>
         <h3>まとめ</h3>
         <p>今回個人用に女性向け副業サービスをまとめて見ました。どれも評判良いサービスを中心にピックアップしており、特に<span>高時給と時間に都合付けれる点は良さそう🎵</span></p>
