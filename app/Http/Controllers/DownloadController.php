@@ -40,7 +40,7 @@ class DownloadController extends Controller
     }
     
     public function game() {
-        return view('download.game');
+        return view('download.game2');
     }
     
     // public function os() {
