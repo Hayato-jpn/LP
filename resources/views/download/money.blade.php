@@ -11,10 +11,10 @@
         <!--<br />-->
         <!--<br />-->
         <!--<h2><span>【女性専用】副業特集！</span></h2>-->
-        <img class="img-width" src="{{ asset('/images/top.jpg') }}"></img>
+        <img class="img-width-100" src="{{ asset('/images/top.jpg') }}"></img>
         <h4><span>学校やバイト・仕事の隙間時間にも🎵</span></h4>
-        <br />
-        <br />
+        <!--<br />-->
+        <!--<br />-->
         <!--<img class="img-width" src="{{ asset('/images/attention.png') }}"></img>-->
         <div class="line"></div>
         <!--Biscor-->
@@ -47,11 +47,11 @@
         <p><span>【平均お手当時給 1万円超え!!??】</span><br />大手企業運営パパ活アプリ🎵</p>
         <a href="https://fam-ad.com/ad/p/r?_site=64802&_article=16786" class="btn-square" target="_blank">App Storeへ</a>
         <div class="line"></div>
-        <br />
-        <br />
+        <!--<br />-->
+        <!--<br />-->
         <img class="img-width" src="{{ asset('/images/attention.png') }}"></img>
-        <br />
-        <br />
+        <!--<br />-->
+        <!--<br />-->
         <div class="line"></div>
         <h3>まとめ</h3>
         <p>今回個人用に女性向け副業サービスをまとめて見ました。どれも評判良いサービスを中心にピックアップしており、特に<span>高時給と時間に都合付けれる点は良さそう🎵</span></p>
