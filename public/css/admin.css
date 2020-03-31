@@ -94,3 +94,7 @@ p {
   font-weight: normal;
   font-size: 12px;
 }
+
+.span-class {
+  font-weight: bold;
+}
