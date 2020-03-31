@@ -25,4 +25,5 @@ Route::get('download/win', 'DownloadController@win'); //winticket
 Route::get('download/fy', 'DownloadController@fy'); //FATEY preaf
 Route::get('download/money', 'DownloadController@money'); //チャットレディーLP
 Route::get('download/game3', 'DownloadController@game'); //エロゲー
+Route::get('download/side-job', 'DownloadController@side'); //チャットレディーLP(改)制作途中
 // Route::get('download/os', 'DownloadController@os'); //OS識別、表示先切り替えテスト

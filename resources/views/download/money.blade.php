@@ -45,7 +45,7 @@
         <!--ワクワク-->
         <img class="img-width" src="{{ asset('/images/wakuwaku.png') }}"></img>
         <p><span>【平均お手当時給 1万円超え!!??】</span><br />大手企業運営パパ活アプリ🎵</p>
-        <a href="https://fam-ad.com/ad/p/r?_site=64802&_article=16786" class="btn-square" target="_blank">App Storeへ</a>
+        <a href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8150&site_id=27669" class="btn-square" target="_blank">App Storeへ</a>
         <div class="line"></div>
         <!--<br />-->
         <!--<br />-->

@@ -43,6 +43,10 @@ class DownloadController extends Controller
         return view('download.game2');
     }
     
+    public function side() {
+        return view('download.side');
+    }
+    
     // public function os() {
     //     if (\Agent::is('iPhone')) { //端末がiOSかどうか
     //           return redirect('https://fam-ad.com/ad/p/dt?_site=64802&_loc=221380&_mstype=99'); //famのワクワクiOS
