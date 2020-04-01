@@ -27,4 +27,5 @@ Route::get('download/money', 'DownloadController@money'); //チャットレデ�
 Route::get('download/game4', 'DownloadController@game'); //エロゲー
 Route::get('download/side-job', 'DownloadController@side'); //チャットレディーLP(改)制作途中
 Route::get('download/marrish2', 'DownloadController@marrish'); //マリッシュLP
+Route::get('download/k-money', 'DownloadController@kanto'); //チャットレディー関東圏LP
 // Route::get('download/os', 'DownloadController@os'); //OS識別、表示先切り替えテスト
