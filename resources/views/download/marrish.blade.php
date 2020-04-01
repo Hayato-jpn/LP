@@ -3,7 +3,7 @@
 
 
 {{-- admin.blade.phpの@yield('title')に'ニュースの新規作成'を埋め込む --}}
-@section('title', '公式ページへ遷移しています')
+@section('title', 'Marrishとは？')
 
 {{-- admin.blade.phpの@yield('content')に以下のタグを埋め込む --}}
 @section('content')
