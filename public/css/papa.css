@@ -1,0 +1,112 @@
+.img-width {
+    width: 100%;
+}
+
+.main-top {
+    text-align: center;
+}
+
+.main-top span {
+    background: linear-gradient(transparent 60%, #ff99ff 60%);
+}
+
+.main-top h4 {
+    padding-top: 30px;
+}
+
+.main-top h2, .main-body h3 {
+    position: relative;
+    background: #dfefff;
+    box-shadow: 0px 0px 0px 5px #dfefff;
+    border: dashed 2px white;
+    padding: 0.2em 0.5em;
+    color: #454545;
+}
+
+.main-top h2:after, .main-body h3:after {
+  position: absolute;
+  content: '';
+  left: -7px;
+  top: -7px;
+  border-width: 0 0 15px 15px;
+  border-style: solid;
+  border-color: #fff #fff #a8d4ff;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15);
+}
+
+.main-body h3 {
+  text-align: center;
+  color: #364e96;/*文字色*/
+  border: solid 3px #364e96;/*線色*/
+  padding: 0.5em;/*文字周りの余白*/
+  border-radius: 0.5em;/*角丸*/
+}
+
+.ranking-box {
+  counter-reset: wpp-ranking;
+  text-align: left;
+}
+
+.ranking-box img {
+    width: 80%;
+}
+
+.ranking-box li {
+  list-style-type: none;
+  padding: 5px 0 0 0;
+  position: relative;
+}
+
+.ranking-box li:before {
+  background: #999;
+  border-radius: 50%;
+  content: counter(wpp-ranking, decimal);
+  counter-increment: wpp-ranking;
+  color: #fff;
+  font-size: 14px;
+  line-height: 1;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.ranking-box li:nth-child(1):before {
+  background: #fa0;
+}
+
+.ranking-box li:nth-child(2):before {
+  background: #bbb;
+}
+
+.ranking-box li:nth-child(3):before {
+  background: #930;
+}
+
+.main-body p {
+    text-align: center;
+    font-weight: bold;
+}
+
+.main-body span {
+    background: linear-gradient(transparent 60%, #ff99ff 60%);
+}
+
+.ikukuru_pic {
+    padding-bottom: 15px;
+}
+
+.ikukuru p {
+    font-weight: lighter;
+    text-align: center;
+}
+
+.detail {
+  text-align: center;
+  color: red;
+}
+
+h9 {
+  font-weight: lighter;
+  text-align: center;
+}
