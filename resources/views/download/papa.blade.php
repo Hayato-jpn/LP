@@ -38,6 +38,7 @@
         <p>そして、色々試した結果、イククルにたどり着いたという方も多くいました。悪質ユーザーは事前にBANしてくれたり、しっかりした運営との声も！勿論、</p>
         <h2 class="detail">「女性は完全無料」</h2>
         <p>なので、<span>登録後、すぐお小遣い稼ぎ開始出来る</span>のも特徴！まず始めにアプリインストールだけして、<span>どんなパパがいるか確認するだけ</span>でもいいかも♬<br><span>期間限定紹介の為、急遽紹介が終了</span>する場合がございます。</p>
+        <br>
         <a href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8218&site_id=27669" target="_blank"><img src="{{ asset('/images/dl_ios.jpg') }}" class="img-width"></a>
     </div>
     <footer>
