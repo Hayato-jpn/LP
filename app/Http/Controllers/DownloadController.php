@@ -36,7 +36,8 @@ class DownloadController extends Controller
     }
     
     public function money() {
-        return view('download.money');
+        // return view('download.money');
+        return view('download.side');
     }
     
     public function game() {
@@ -52,7 +53,8 @@ class DownloadController extends Controller
     }
     
     public function kanto() {
-        return view('download.money');
+        // return view('download.money');
+        return view('download.side');
     }
     
     // public function os() {

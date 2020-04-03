@@ -14,7 +14,7 @@
         <img src="{{ asset('/images/person.jpg') }}" class="img-width editor"></img>
     </header>
     <div class="ranking">
-        <img src="{{ asset('/images/rank_no.1.jpg') }}" class="img-width"></img>
+        <a href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8218&site_id=27669" target="_blank"><img src="{{ asset('/images/rank_no.1.jpg') }}" class="img-width"></img></a>
         <div class="ikukuru">
             <div class="box14">
                 <p>登録人数1,300万人突破！</p>
@@ -23,7 +23,7 @@
                 <p>リッチな男性が多数在籍しているから、初心者でも簡単！</p>
             </div>
             <p>パパ活アプリでは無いものの良質な出会いがあることから人気のポイント♬<br /><span>高収入高学歴男性が多くパパ活活用している女性にも人気！</span></p>
-            <a href="#" class="btn-square-so-pop">   公式アプリ   ▷︎</a>
+            <a href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8218&site_id=27669" class="btn-square-so-pop" target="_blank">   公式アプリ   ▷︎</a>
             <p>※公式アプリに飛びます↗️️</p>
         </div>
         <a href="https://a-trade.jp/redirect/biscor?media=G16531" target="_blank"><img src="{{ asset('/images/biscor_rank.jpg') }}" class="img-width"></img></a>
