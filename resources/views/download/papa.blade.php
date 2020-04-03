@@ -12,12 +12,12 @@
         <img src="{{ asset('/images/person.jpg') }}" class="img-width"></img>
     </header>
     <div class="main-top">
-        <h4><span>~ パパ活女子「238人」にアンケート！ ~</span></h4>
-        <h2>最人気パパ活アプリは何！？</h2>
+        <h5><span>~ パパ活女子「238人」にアンケート！ ~</span></h5>
+        <h4>最人気パパ活アプリは何！？</h4>
         <img src="{{ asset('/images/papa_rank.png') }}" class="img-width"></img>
     </div>
     <div class="main-body">
-        <h3>【限定3選】人気アプリランキング！</h3>
+        <h5>【限定3選】人気アプリランキング！</h5>
         <p><span>今はマッチングアプリ・SNSでのパパ活が主流！？</span></p>
         <ul class="ranking-box">
             <li><a href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8218&site_id=27669" target="_blank"><img src="{{ asset('/images/ikukuru_app.jpg') }}"></a></li>
@@ -25,7 +25,7 @@
             <li><img src="{{ asset('/images/twitter_app.jpg') }}"></li>
         </ul>
         <br>
-        <h3>「1位：イククル」ってどんなアプリ？</h3>
+        <h5>「1位：イククル」ってどんなアプリ？</h5>
         <a href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8218&site_id=27669" target="_blank"><img src="{{ asset('/images/rank_no.1.jpg') }}" class="img-width"></a>
         <img src="{{ asset('/images/ikukuru_detail.jpg') }}" class="img-width">
         <h3>▽ イククル特徴 ▽</h3>
