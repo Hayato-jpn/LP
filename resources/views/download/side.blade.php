@@ -65,13 +65,7 @@
     </div>
     <div class="line"></div>
     <footer>
-        <div class="summary">
-            <h3>まとめ</h3>
-            <p>こんな時代だからこそ、好きな時間に短時間で稼ぐ<span>効率良い賢い稼ぎ方</span>が人気になっているんだと思います！<br />特に学生の方は<span>効率良く稼いで、余った時間を遊んだり勉強に費やしたり</span>出来ますね♬</p>
-        </div>
-        <br />
-        <br />
-        <br />
+        <img src="{{ asset('/images/footer_pic.jpg') }}" class="img-width"></img>
         <a href="#top"><img src="{{ asset('/images/footer.jpg') }}" class="img-width-footer"></img></a>
     </footer>
 @endsection
