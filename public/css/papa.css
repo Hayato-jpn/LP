@@ -15,17 +15,38 @@
 }
 
 /*青っぽく囲うやつ*/
-.main-top h3, .main-body h4 {
+.main-top h3 {
     position: relative;
     background: #dfefff;
     box-shadow: 0px 0px 0px 5px #dfefff;
     border: dashed 2px white;
     padding: 0.2em 0.5em;
     color: #454545;
+    text-align: center;
+}
+
+.main-body h4 {
+    position: relative;
+    background: #dfefff;
+    box-shadow: 0px 0px 0px 5px #dfefff;
+    border: dashed 2px white;
+    padding: 0.2em 0.5em;
+    color: #454545;
+    text-align: center;
+}
+
+.main-sub h4 {
+    position: relative;
+    background: #dfefff;
+    box-shadow: 0px 0px 0px 5px #dfefff;
+    border: dashed 2px white;
+    padding: 0.2em 0.5em;
+    color: #454545;
+    text-align: center;
 }
 
 /*青っぽく囲うやつ*/
-.main-top h3:after, .main-body h4:after {
+.main-top h3:after,.main-body h4:after,.main-sub h4:after {
   position: absolute;
   content: '';
   left: -7px;
@@ -34,14 +55,6 @@
   border-style: solid;
   border-color: #fff #fff #a8d4ff;
   box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15);
-}
-
-.main-body h4 {
-  text-align: center;
-  color: #364e96;/*文字色*/
-  border: solid 3px #364e96;/*線色*/
-  padding: 0.5em;/*文字周りの余白*/
-  border-radius: 0.5em;/*角丸*/
 }
 
 .ranking-box {
@@ -116,4 +129,32 @@ h9 {
 
 .main-body h2 {
   text-align: center;
+}
+
+.main-sub span {
+  background: linear-gradient(transparent 60%, #ff99ff 60%);
+}
+
+.main-sub li {
+  font-weight: bold;
+}
+
+.main-sub h4 {
+  text-align: center;
+  color: red;
+}
+
+.main-sub p {
+  text-align: center;
+  font-weight: bold;
+}
+
+.main-sub h7 {
+  text-align: center;
+  font-weight: bold;
+}
+
+.sub {
+  margin: 0 auto;
+  width: 90%;
 }

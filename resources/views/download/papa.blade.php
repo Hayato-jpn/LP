@@ -41,9 +41,32 @@
         <h2 class="detail">「余裕があるパパを厳選したい！」</h2>
         <p>そして、色々試した結果、イククルにたどり着いたという方も多くいました。悪質ユーザーは事前にBANしてくれたり、しっかりした運営との声も！勿論、</p>
         <h2 class="detail">「女性は完全無料」</h2>
-        <p>なので、<span>登録後、すぐお小遣い稼ぎ開始出来る</span>のも特徴！まず始めにアプリインストールだけして、<span>どんなパパがいるか確認するだけ</span>でもいいかも♬<br><span>期間限定紹介の為、急遽紹介が終了</span>する場合がございます。</p>
+        <p>なので、<span>登録後、すぐお小遣い稼ぎ開始出来る</span>のも特徴！まず始めにアプリインストールだけして、<span>どんなパパがいるか確認するだけ</span>でもいいかも♬</p>
+        <p><span>期間限定紹介の為、急遽紹介が終了</span>する場合がございます。</p>
         <br>
         <a href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8218&site_id=27669" target="_blank"><img src="{{ asset('/images/dl_ios.jpg') }}" class="img-width"></a>
+    </div>
+    <br>
+    <br>
+    <br>
+    <hr width="80%" noshade>
+    <br>
+    <div class="main-sub">
+        <h4>番外編：自宅にいながらパパ活！？</h4>
+        <img src="{{ asset('/images/berry_pic.png') }}" class="img-width">
+        <ul>
+            <li><span>LINE感覚</span>でお話するだけ！</li>
+            <li>スマホがあれば誰でもOK！</li>
+            <li>だから、<span>スキマ時間に稼げる！</span></li>
+        </ul>
+        <br>
+        <div class="sub">
+            <h7>簡単に説明すると、<span>ライブ配信やテレビ電話、テキストメッセージのような感じ</span>でユーザーとお話する形！<br>※ 勿論、<span>変なアダルトなお仕事ではありません！！！</span></h7>
+        </div>
+        <br>
+        <h4>パパ活アプリと併用する猛者も！</h4>
+        <p>詳細はコチラから↩️</p>
+        <a href="https://a-trade.jp/redirect/berry?media=G16531" target="_blank"><img src="{{ asset('/images/dl_ios.jpg') }}" class="img-width"></a>
     </div>
     <footer>
         <br>
