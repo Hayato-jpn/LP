@@ -14,6 +14,7 @@
     padding-top: 30px;
 }
 
+/*青っぽく囲うやつ*/
 .main-top h3, .main-body h4 {
     position: relative;
     background: #dfefff;
@@ -23,6 +24,7 @@
     color: #454545;
 }
 
+/*青っぽく囲うやつ*/
 .main-top h3:after, .main-body h4:after {
   position: absolute;
   content: '';
