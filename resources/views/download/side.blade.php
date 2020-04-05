@@ -10,10 +10,13 @@
     <header>
         <img src="{{ asset('/images/top2.jpg') }}" class="img-width-100"></img>
         <a name="top"></a>
-        <h3>【2020年度「春」版！】<br />高時給 & 在宅バイト特集！</h3>
+        <!--<h3>【2020年度「春」版！】<br />高時給 & 在宅バイト特集！</h3>-->
+        <h3>数日で10万円稼げます！</h3>
+        <p>やればやるほど稼げるので、<span>10万円以上も可能！</span><br><span>勿論、正当なお仕事です♫</span></p>
         <img src="{{ asset('/images/person.jpg') }}" class="img-width editor"></img>
     </header>
     <div class="ranking">
+        <h3>【2020年度「春」版！】<br /><span>高時給 & 在宅バイト特集！</span></h3>
         <a href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8218&site_id=27669" target="_blank"><img src="{{ asset('/images/rank_no.1.jpg') }}" class="img-width"></img></a>
         <div class="ikukuru">
             <div class="box14">
