@@ -58,7 +58,7 @@
                 <p>SNS利用者にはピッタリ！</p>
                 <p>新規サービスでユーザー募集中</p>
             </div>
-            <p>専用アプリだけで<span>月10万円達成者「多数！」</span>手堅く稼ぎたいならコレ！</p>
+            <p>専用アプリだけで<span>月10万円達成者「多数！」</span>手堅く稼ぎたいならコレ!!</p>
             <a href="https://a-trade.jp/redirect/charin?media=G16531" class="btn-square-so-pop" target="_blank">   公式ページ   ↩︎</a>
             <p>※公式ページに飛びます↗️️</p>
         </div>
