@@ -11,7 +11,7 @@
         <img src="{{ asset('/images/top2.jpg') }}" class="img-width-100"></img>
         <a name="top"></a>
         <!--<h3>【2020年度「春」版！】<br />高時給 & 在宅バイト特集！</h3>-->
-        <h3>数日で10万円稼げます！</h3>
+        <h3>即金10万円稼げます！</h3>
         <p>やればやるほど稼げるので、<span>10万円以上も可能！</span><br><span>勿論、正当なお仕事です♫</span></p>
         <img src="{{ asset('/images/person.jpg') }}" class="img-width editor"></img>
     </header>
