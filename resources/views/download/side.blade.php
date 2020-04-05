@@ -23,7 +23,7 @@
                 <p>リッチな男性が多数在籍しているから、初心者でも簡単！</p>
             </div>
             <p>パパ活アプリでは無いものの良質な出会いがあることから人気のポイント♬<br /><span>高収入高学歴男性が多くパパ活活用している女性にも人気！</span></p>
-            <a href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8218&site_id=27669" class="btn-square-so-pop" target="_blank">   公式アプリ   ▷︎</a>
+            <a href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8218&site_id=27669" class="btn-square-so-pop" target="_blank">   公式アプリ   ↩︎</a>
             <p>※公式アプリに飛びます↗️️</p>
         </div>
         <a href="https://a-trade.jp/redirect/biscor?media=G16531" target="_blank"><img src="{{ asset('/images/biscor_rank.jpg') }}" class="img-width"></img></a>
@@ -35,7 +35,7 @@
                 <p>スマホでスキマ時間から働けます</p>
             </div>
             <p>おしゃべり好き必見！<br /><span>会員ユーザーとお話・悩み相談を受けるだけのバイト♬</span><br />スマホでスキマ時間に始められるから、忙しい方にも！</p>
-            <a href="https://a-trade.jp/redirect/biscor?media=G16531" class="btn-square-so-pop" target="_blank">   公式ページ   ▷︎</a>
+            <a href="https://a-trade.jp/redirect/biscor?media=G16531" class="btn-square-so-pop" target="_blank">   公式ページ   ↩️︎</a>
             <p>※公式ページに飛びます↗️️</p>
         </div>
         <a href="https://a-trade.jp/redirect/moa?media=G16531" target="_blank"><img src="{{ asset('/images/rank_moa.jpg') }}" class="img-width"></img></a>
@@ -47,7 +47,7 @@
                 <p>今、巷で女性ユーザー急増中</p>
             </div>
             <p>ユーザー間のやり取りは専用アプリを使うので<span>身バレの心配ありません！</span></p>
-            <a href="https://a-trade.jp/redirect/moa?media=G16531" class="btn-square-so-pop" target="_blank">   公式ページ   ▷︎</a>
+            <a href="https://a-trade.jp/redirect/moa?media=G16531" class="btn-square-so-pop" target="_blank">   公式ページ   ↩︎</a>
             <p>※公式ページに飛びます↗️️</p>
         </div>
         <a href="https://a-trade.jp/redirect/charin?media=G16531" target="_blank"><img src="{{ asset('/images/rank_charin.jpg') }}" class="img-width"></img></a>
@@ -59,7 +59,7 @@
                 <p>新規サービスでユーザー募集中</p>
             </div>
             <p>専用アプリだけで<span>月10万円達成者「多数！」</span>手堅く稼ぎたいならコレ！</p>
-            <a href="https://a-trade.jp/redirect/charin?media=G16531" class="btn-square-so-pop" target="_blank">   公式ページ   ▷︎</a>
+            <a href="https://a-trade.jp/redirect/charin?media=G16531" class="btn-square-so-pop" target="_blank">   公式ページ   ↩︎</a>
             <p>※公式ページに飛びます↗️️</p>
         </div>
     </div>
