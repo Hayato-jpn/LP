@@ -44,7 +44,10 @@
         <p>なので、<span>登録後、すぐお小遣い稼ぎ開始出来る</span>のも特徴！まず始めにアプリインストールだけして、<span>どんなパパがいるか確認するだけ</span>でもいいかも♬</p>
         <p><span>期間限定紹介の為、急遽紹介が終了</span>する場合がございます。</p>
         <br>
-        <a href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8218&site_id=27669" target="_blank"><img src="{{ asset('/images/dl_ios.jpg') }}" class="img-width"></a>
+        <div class="button">
+            <a href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8218&site_id=27669" class="btn-square-so-pop" target="_blank">   公式アプリ   ↩︎</a>
+        </div>
+        <!--<a href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8218&site_id=27669" target="_blank"><img src="{{ asset('/images/dl_ios.jpg') }}" class="img-width"></a>-->
     </div>
     <br>
     <br>
@@ -69,7 +72,10 @@
         <br>
         <h4>パパ活アプリと併用する猛者も！</h4>
         <p>詳細はコチラから↩️</p>
-        <a href="https://a-trade.jp/redirect/berry?media=G16531" target="_blank"><img src="{{ asset('/images/dl_ios.jpg') }}" class="img-width"></a>
+        <div class="button">
+            <a href="https://a-trade.jp/redirect/berry?media=G16531" class="btn-square-so-pop" target="_blank">   公式ページ   ↩︎</a>
+        </div>
+        <!--<a href="https://a-trade.jp/redirect/berry?media=G16531" target="_blank"><img src="{{ asset('/images/dl_ios.jpg') }}" class="img-width"></a>-->
     </div>
     <footer>
         <br>
