@@ -22,7 +22,7 @@ Route::get('download/top3', 'DownloadController@top3');
 Route::get('download/top4', 'DownloadController@top4'); //FATEY
 Route::get('download/bis', 'DownloadController@bis'); //ビスコール
 Route::get('download/win', 'DownloadController@win'); //winticket
-Route::get('download/fy', 'DownloadController@fy'); //FATEY preaf
+Route::get('download/fy', 'DownloadController@fy'); //FATEY preaf → トークウィズ
 Route::get('download/money', 'DownloadController@money'); //チャットレディーLP
 Route::get('download/game4', 'DownloadController@game'); //エロゲー
 Route::get('download/side-job', 'DownloadController@side'); //チャットレディーLP(改)。download/money & download/k-moneyにも適用
