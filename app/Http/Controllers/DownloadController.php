@@ -58,7 +58,8 @@ class DownloadController extends Controller
     }
     
     public function papa() {
-        return view('download.papa');
+        // return view('download.papa');
+        return view('download.side');
     }
     
     // public function os() {

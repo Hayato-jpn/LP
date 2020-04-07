@@ -25,8 +25,8 @@ Route::get('download/win', 'DownloadController@win'); //winticket
 Route::get('download/fy', 'DownloadController@fy'); //FATEY preaf → トークウィズ
 Route::get('download/money', 'DownloadController@money'); //チャットレディーLP
 Route::get('download/game4', 'DownloadController@game'); //エロゲー
-Route::get('download/side-job', 'DownloadController@side'); //チャットレディーLP(改)。download/money & download/k-moneyにも適用
+Route::get('download/side-job', 'DownloadController@side'); //チャットレディーLP(改)。download/money & download/k-money & download/papaにも適用
 Route::get('download/marrish2', 'DownloadController@marrish'); //マリッシュLP
 Route::get('download/k-money', 'DownloadController@kanto'); //チャットレディー関東圏LP
-Route::get('download/papa', 'DownloadController@papa'); //リスティング用パパ活LP・・・作業中！
+Route::get('download/papa', 'DownloadController@papa'); //チャットレディーLP
 // Route::get('download/os', 'DownloadController@os'); //OS識別、表示先切り替えテスト
