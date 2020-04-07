@@ -12,7 +12,7 @@
         <br />
         <br />
         <p>ただいま公式キャンペーンページへ移動中です。<br><span>下記より対象OSを選択して下さい。</span></p>
-        <a href="https://a-trade.jp/redirect/fatey-multi?media=G16531"><img src="{{ asset('/images/d_2.png') }}"></img></a>
+        <a href="https://fam-ad.com/ad/p/r?_site=64801&_article=16216"><img src="{{ asset('/images/d_2.png') }}"></img></a>
         <p>移動後は、<span>公式アプリ内をCHECK</span>して下さい。</p>
     </div>
 @endsection

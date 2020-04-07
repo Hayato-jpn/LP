@@ -19,7 +19,7 @@ Route::get('/', function () {
 Route::get('download/top', 'DownloadController@top');
 Route::get('download/top2', 'DownloadController@top2');
 Route::get('download/top3', 'DownloadController@top3');
-Route::get('download/top4', 'DownloadController@top4'); //FATEY
+Route::get('download/top4', 'DownloadController@top4'); //FATEY → TORITOMO
 Route::get('download/bis', 'DownloadController@bis'); //ビスコール
 Route::get('download/win', 'DownloadController@win'); //winticket
 Route::get('download/fy', 'DownloadController@fy'); //FATEY preaf → トークウィズ
