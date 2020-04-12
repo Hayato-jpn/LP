@@ -11,10 +11,10 @@
     <div class="box27">
         <span class="box-title">【女性限定】在宅副業ランキング</span>
         <ul>
-            <a href="#ikukuru"><li>1位：3日で10万円!? 太パパ活アプリ決定版 <i class="fa fa-external-link"></i></li></a>
-            <a href="#biscor"><li>2位：インフルエンサーデビュー!? ライブ配信で稼ぐ <i class="fa fa-external-link"></i></li></a>
-            <a href="#moa"><li>3位：まるでLINE!? 専用アプリ通話・チャットで稼ぐ <i class="fa fa-external-link"></i></li></a>
-            <a href="#charin"><li>4位：スキマ時間に!! SNS型お小遣い稼ぎ <i class="fa fa-external-link"></i></li></a>
+            <a href="#ikukuru"><li>1位：3日で10万円!?<br>太パパ活アプリ決定版 <i class="fa fa-external-link"></i></li></a>
+            <a href="#biscor"><li>2位：インフルエンサーデビュー!?<br>ライブ配信で稼ぐ <i class="fa fa-external-link"></i></li></a>
+            <a href="#moa"><li>3位：まるでLINE!?<br>専用アプリ通話・チャットで稼ぐ <i class="fa fa-external-link"></i></li></a>
+            <a href="#charin"><li>4位：スキマ時間に!!<br>SNS型お小遣い稼ぎ <i class="fa fa-external-link"></i></li></a>
         </ul>
     </div>
     <img src="{{ asset('/images/person.jpg') }}" class="pic"></img>
@@ -25,9 +25,9 @@
     <div class="box26">
         <span class="box-title">P O I N T</span>
         <ul>
-            <li class="li-top">リッチ<span class="text">太パパ多数登録！</span>だから、<span class="text">報酬金額が高い！</span></li>
+            <li class="li-top">リッチ<span class="text">太パパ多数登録！</span><br>だから、<span class="text">報酬金額が高い！</span></li>
             <li>デート・お食事で<span class="text">3日で10万円</span>も可能！</li>
-            <li>約20年の運営実績、悪質男性ユーザーは即排除！</li>
+            <li>約20年の運営実績、<br>悪質男性ユーザーは即排除！</li>
             <li>身バレ防止！<span class="text">顔写真不要・仮名OK！</span></li>
         </ul>
     </div>
@@ -41,7 +41,7 @@
         <span class="box-title">P O I N T</span>
         <ul>
             <li class="li-top"><span class="text">最大時給4,200円！</span></li>
-            <li>今話題の<span class="text">ライブ配信デビュー!?</span> 顔出ししなくてもOK!!</li>
+            <li>今話題の<span class="text">ライブ配信デビュー!?</span><br>顔出ししなくてもOK!!</li>
             <li><span class="text">好きな時間に好きな場所</span>でOK！</li>
             <li>ファンをGETして効率よく稼ごう！</li>
         </ul>
@@ -56,7 +56,7 @@
         <span class="box-title">P O I N T</span>
         <ul>
             <li class="li-top"><span class="text">最大時給3,600円！</span></li>
-            <li>LINE感覚で<span class="text">お話するだけ!?</span> 悩み相談や暇つぶしに◎</li>
+            <li>LINE感覚で<span class="text">お話するだけ!?</span><br>悩み相談や暇つぶしに◎</li>
             <li>LINE感覚だから<span class="text">電車などの移動時間に！</span></li>
             <li>専用アプリだから<span class="text">完全身バレ防止！</span></li>
         </ul>
