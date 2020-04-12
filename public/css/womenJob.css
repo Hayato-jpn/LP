@@ -16,7 +16,7 @@ body {
 .box27 {
     position: relative;
     /*padding: 0.5em 1em;*/
-    padding-top: 30px;
+    /*padding-top: 30px;*/
     width: 95%;
     margin: 0 auto;
     border: solid 3px red;
@@ -87,7 +87,7 @@ body {
 }
 .box26 li {
     color: grey;
-    font-size: 15px;
+    font-size: 18px;
     font-weight: bold;
     text-align: left;
 }
@@ -98,7 +98,7 @@ body {
 
 .text {
   color: orange;
-  font-size: 17px;
+  font-size: 25px;
 }
 
 @keyframes shiny {

@@ -8,6 +8,7 @@
 {{-- admin.blade.phpの@yield('content')に以下のタグを埋め込む --}}
 @section('content')
     <a name="top"><img src="{{ asset('/images/top.jpg') }}" class="top-pic"></img></a>
+    
     <div class="box27">
         <span class="box-title">【女性限定】在宅副業ランキング</span>
         <ul>
@@ -17,6 +18,7 @@
             <a href="#charin"><li>4位：スキマ時間に!!<br>SNS型お小遣い稼ぎ <i class="fa fa-external-link"></i></li></a>
         </ul>
     </div>
+    
     <img src="{{ asset('/images/person.jpg') }}" class="pic"></img>
     <!--ランキング-->
     <h1 class="ranking">【女性限定】在宅副業ランキング</h1>
@@ -35,8 +37,6 @@
         <a class="shiny-btn" href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8218&site_id=27669" target="_blank">公式アプリへ <i class="fa fa-external-link"></i></a>
     </div>
     <br>
-    <br>
-    <br>
     <!--ビスコール-->
     <a name="biscor" href="https://a-trade.jp/redirect/biscor?media=G16531" target="_blank"><img src="{{ asset('/images/biscor_rank.jpg') }}" class="pic"></img></a>
     <div class="box26">
@@ -51,8 +51,6 @@
     <div class="app">
         <a class="shiny-btn" href="https://a-trade.jp/redirect/biscor?media=G16531" target="_blank">公式ページへ <i class="fa fa-external-link"></i></a>
     </div>
-    <br>
-    <br>
     <br>
     <!--モア-->
     <a name="moa" href="https://a-trade.jp/redirect/moa?media=G16531" target="_blank"><img src="{{ asset('/images/rank_moa.jpg') }}" class="pic"></img></a>
@@ -69,15 +67,13 @@
         <a class="shiny-btn" href="https://a-trade.jp/redirect/moa?media=G16531" target="_blank">公式ページへ <i class="fa fa-external-link"></i></a>
     </div>
     <br>
-    <br>
-    <br>
     <!--チャリン-->
     <a name="charin" href="https://a-trade.jp/redirect/charin?media=G16531" target="_blank"><img src="{{ asset('/images/rank_charin.jpg') }}" class="pic"></img></a>
     <div class="box26">
         <span class="box-title">P O I N T</span>
         <ul>
             <li class="li-top"><span class="text">最大時給4,200円！</span></li>
-            <li><span class="text">インスタ・ツイッターユーザー必見!?</span></li>
+            <li><span class="text">SNSユーザー必見!?</span></li>
             <li>SNS感覚だから<span class="text">スキマ時間にOK！</span></li>
             <li>新規サービスの為、ユーザー絶賛募集中！</li>
         </ul>
@@ -85,8 +81,6 @@
     <div class="app">
         <a class="shiny-btn" href="https://a-trade.jp/redirect/charin?media=G16531" target="_blank">公式ページへ <i class="fa fa-external-link"></i></a>
     </div>
-    <br>    
-    <br>
     <br>
     <!--まとめ-->
     <img src="{{ asset('/images/footer_pic.jpg') }}" class="pic"></img>
