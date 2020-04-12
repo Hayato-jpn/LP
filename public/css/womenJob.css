@@ -1,73 +1,8 @@
-/*body {*/
-/*  background-repeat: no-repeat;*/
-/*  background-position: center;*/
-/*  background-color: #000;*/
-/*  color: #fff;*/
-/*}*/
-
-/*.navbar-laravel {*/
-/*  background-color: #000;*/
-/*  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);*/
-/*}*/
-
-/*.navbar-brand {*/
-/*  color: #fff !important;*/
-/*}*/
-
-/*.nav-link {*/
-/*  color: #fff !important;*/
-/*}*/
-
-/*.table-dark {*/
-/*  color: #fff;*/
-/*}*/
-
-/*.list-group-item {*/
-/*  border-color: #fff;*/
-/*  background-color: #000;*/
-/*}*/
-
-/*.login-box {*/
-/*  background-color: rgba(0, 0, 0, 0);*/
-/*}*/
-
-/*.login-header {*/
-/*  background-color: rgba(0, 0, 0, 0.25);*/
-/*}*/
-
-/*.login-body {*/
-/*  background-color: rgba(0, 0, 0, 0.25);*/
-/*}*/
-
-/*.container {*/
-/*  overflow: auto;*/
-/*  scroll-snap-type: y;*/
-/*  height: 100vh;*/
-/*}*/
-/*.area {*/
-/*  scroll-snap-align: start;*/
-/*  height: 100vh;*/
-/*}*/
-
-/* General Styling */
 body {
   font-size: 4rem;
   text-align: center;
   color: #fff;
 }
-/*h1 {*/
-/*  font-size: 30px;*/
-/*  font-weight: bold;*/
-/*  padding-top: 10px;*/
-/*  color: black;*/
-  /*margin-bottom: 2rem;*/
-/*}*/
-/*.area:nth-child(even) {*/
-/*  background-color: #0db;*/
-/*}*/
-/*.area:nth-child(odd) {*/
-/*  background-color: #0bd;*/
-/*}*/
 
 .top-pic {
   margin-bottom: 30px;
@@ -87,6 +22,7 @@ body {
     border: solid 3px red;
     border-radius: 10px;
 }
+
 .box27 .box-title {
     position: absolute;
     display: inline-block;
@@ -102,6 +38,7 @@ body {
     font-weight: bold;
     border-radius: 5px 5px 0 0;
 }
+
 .box27 li {
     color: red;
     font-size: 18px;
@@ -135,6 +72,7 @@ body {
     border: solid 3px #95ccff;
     border-radius: 8px;
 }
+
 .box26 .box-title {
     position: absolute;
     display: inline-block;
@@ -219,50 +157,3 @@ body {
     animation-timing-function: ease-in-out;
     animation-iteration-count: infinite;
 }
-
-/*ここからapp.cssのやつ*/
-/*@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);@charset "UTF-8";*/
-
-/*!
- * Bootstrap v4.4.1 (https://getbootstrap.com/)
- * Copyright 2011-2019 The Bootstrap Authors
- * Copyright 2011-2019 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
-
-/*:root {*/
-/*  --blue: #007bff;*/
-/*  --indigo: #6610f2;*/
-/*  --purple: #6f42c1;*/
-/*  --pink: #e83e8c;*/
-/*  --red: #dc3545;*/
-/*  --orange: #fd7e14;*/
-/*  --yellow: #ffc107;*/
-/*  --green: #28a745;*/
-/*  --teal: #20c997;*/
-/*  --cyan: #17a2b8;*/
-/*  --white: #fff;*/
-/*  --gray: #6c757d;*/
-/*  --gray-dark: #343a40;*/
-/*  --primary: #007bff;*/
-/*  --secondary: #6c757d;*/
-/*  --success: #28a745;*/
-/*  --info: #17a2b8;*/
-/*  --warning: #ffc107;*/
-/*  --danger: #dc3545;*/
-/*  --light: #f8f9fa;*/
-/*  --dark: #343a40;*/
-/*  --breakpoint-xs: 0;*/
-/*  --breakpoint-sm: 576px;*/
-/*  --breakpoint-md: 768px;*/
-/*  --breakpoint-lg: 992px;*/
-/*  --breakpoint-xl: 1200px;*/
-/*  --font-family-sans-serif: "Raleway", sans-serif;*/
-/*  --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;*/
-/*}*/
-
-/**,*/
-/**::before,*/
-/**::after {*/
-/*  box-sizing: border-box;*/
-/*}*/
