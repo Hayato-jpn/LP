@@ -29,4 +29,9 @@ Route::get('download/side-job', 'DownloadController@side'); //チャットレデ
 Route::get('download/marrish2', 'DownloadController@marrish'); //マリッシュLP
 Route::get('download/k-money', 'DownloadController@kanto'); //チャットレディー関東圏LP
 Route::get('download/papa', 'DownloadController@papa'); //チャットレディーLP
+Route::get('download/omiai', 'DownloadController@omiai'); //omiai LP
 // Route::get('download/os', 'DownloadController@os'); //OS識別、表示先切り替えテスト
+
+
+// 上は使わない！！！
+Route::get('women-job', 'FacebookController@womenJob');
