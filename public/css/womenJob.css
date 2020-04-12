@@ -81,7 +81,7 @@ h1 {
 .box27 {
     position: relative;
     /*padding: 0.5em 1em;*/
-    padding-top: 30px;
+    /*padding-top: 30px;*/
     width: 95%;
     margin: 0 auto;
     border: solid 3px red;
@@ -104,10 +104,10 @@ h1 {
 }
 .box27 li {
     color: red;
-    font-size: 16px;
+    font-size: 20px;
     font-weight: bold;
     text-align: left;
-    padding-bottom: 10px;
+    padding-bottom: 20px;
 }
 
 .pic {
