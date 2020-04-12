@@ -35,6 +35,8 @@
         <a class="shiny-btn" href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8218&site_id=27669" target="_blank">公式アプリへ <i class="fa fa-external-link"></i></a>
     </div>
     <br>
+    <br>
+    <br>
     <!--ビスコール-->
     <a name="biscor" href="https://a-trade.jp/redirect/biscor?media=G16531" target="_blank"><img src="{{ asset('/images/biscor_rank.jpg') }}" class="pic"></img></a>
     <div class="box26">
@@ -49,6 +51,8 @@
     <div class="app">
         <a class="shiny-btn" href="https://a-trade.jp/redirect/biscor?media=G16531" target="_blank">公式ページへ <i class="fa fa-external-link"></i></a>
     </div>
+    <br>
+    <br>
     <br>
     <!--モア-->
     <a name="moa" href="https://a-trade.jp/redirect/moa?media=G16531" target="_blank"><img src="{{ asset('/images/rank_moa.jpg') }}" class="pic"></img></a>
@@ -65,6 +69,8 @@
         <a class="shiny-btn" href="https://a-trade.jp/redirect/moa?media=G16531" target="_blank">公式ページへ <i class="fa fa-external-link"></i></a>
     </div>
     <br>
+    <br>
+    <br>
     <!--チャリン-->
     <a name="charin" href="https://a-trade.jp/redirect/charin?media=G16531" target="_blank"><img src="{{ asset('/images/rank_charin.jpg') }}" class="pic"></img></a>
     <div class="box26">
@@ -79,6 +85,8 @@
     <div class="app">
         <a class="shiny-btn" href="https://a-trade.jp/redirect/charin?media=G16531" target="_blank">公式ページへ <i class="fa fa-external-link"></i></a>
     </div>
+    <br>    
+    <br>
     <br>
     <!--まとめ-->
     <img src="{{ asset('/images/footer_pic.jpg') }}" class="pic"></img>
