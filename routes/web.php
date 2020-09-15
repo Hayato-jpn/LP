@@ -12,8 +12,10 @@
 */
 
 Route::get('/', function () {
+    return view('facebook.organize'); //運営者情報
+    
     // return view('download.top');
-    return view('download.top');
+    // return view('download.top');
 });
 
 Route::get('download/top', 'DownloadController@top');
@@ -33,5 +35,5 @@ Route::get('download/omiai', 'DownloadController@omiai'); //omiai LP
 // Route::get('download/os', 'DownloadController@os'); //OS識別、表示先切り替えテスト
 
 
-// 上は使わない！！！
-Route::get('women-job', 'FacebookController@womenJob');
+// // 上は使わない！！！
+// Route::get('women-job', 'FacebookController@womenJob');
